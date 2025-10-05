@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
     Widget textSection = Container(
       padding: const EdgeInsets.all(32),
       child: const Text(
-        'Coban Talun Adalah Coban yang berada di Batu, Kota Malanh '
+        'Coban Talun Adalah Coban yang berada di Batu, Kota Malang '
         'tidak hanya coban talun saja tetapi juga ada taman bunga dan '
         'pendakian bukit kalindra. laporan ini milik : '
         'Kartika Tri Juliana dan 2341760116.'
